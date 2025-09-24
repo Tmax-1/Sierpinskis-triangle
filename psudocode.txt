@@ -10,6 +10,6 @@ donw -3. in a for loop lopping for (step 2) times
     done -Make midpoint the new current point
 
 
-4. Draw everything
+done -4. Draw everything
     -Plot all points as tiny dots
     -In small line draw the out side of triangle
