@@ -1,0 +1,15 @@
+done 1. Get triangle corners
+    - store points (x1, y1), (x2, y2), (x3, y3)
+done 2. get the amount of points wanted
+
+donw -3. in a for loop lopping for (step 2) times
+    done-start point 
+    done -Pick a random vertex of the triangle
+    done -Find midpoint between current point and chosen vertex
+    done -Add midpoint to list of points
+    done -Make midpoint the new current point
+
+
+4. Draw everything
+    -Plot all points as tiny dots
+    -In small line draw the out side of triangle
